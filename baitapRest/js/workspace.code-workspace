@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../demoES6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BCDN1_ES6_NguyenBaoThoa"
+	}
+}
